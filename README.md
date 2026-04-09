@@ -62,10 +62,14 @@ All charts are saved in the `outputs/` folder:
    cd trendpulse-<name>
 
 2. Make sure you have Python 3 and required libraries installed:
+   ```
     pip install pandas matplotlib seaborn
-3. Run each task script in order:
+   
+4. Run each task script in order:
+   ```
     python task1_data_collection.py
     python task2_data_processing.py
     python task3_analysis.py
     python task4_visualization.py
-4. Check the outputs/ folder for generated charts.
+   
+6. Check the outputs/ folder for generated charts.
