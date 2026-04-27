@@ -8,17 +8,17 @@ This repository contains all four tasks, the processed dataset, and visualizatio
 ## 📂 Project Structure
 
 trendpulse-<yourname>/
-├── task1_data_collection.py      # Collects trending stories data
-├── task2_data_processing.py      # Cleans and processes the collected data
-├── task3_analysis.py             # Performs analysis on processed data
-├── task4_visualization.py        # Creates visualizations and dashboard
-├── data/
-│   └── trends_analysed.csv       # Dataset generated from Task 3
-└── outputs/
-├── chart1_top_stories.png    # Top 10 stories by score
-├── chart2_categories.png     # Stories per category
-├── chart3_scatter.png        # Score vs comments scatter plot
-└── dashboard.png             # Combined dashboard (bonus)
+├── task1_data_collection.py      # Collects trending stories data  
+├── task2_data_processing.py      # Cleans and processes the collected data  
+├── task3_analysis.py             # Performs analysis on processed data  
+├── task4_visualization.py        # Creates visualizations and dashboard  
+├── data/  
+│   └── trends_analysed.csv       # Dataset generated from Task 3  
+└── outputs/  
+├── chart1_top_stories.png    # Top 10 stories by score  
+├── chart2_categories.png     # Stories per category  
+├── chart3_scatter.png        # Score vs comments scatter plot  
+└── dashboard.png             # Combined dashboard (bonus)  
 
 
 ---
